@@ -1,0 +1,1 @@
+# Boilerplate for TS + Eslint + Prettier + Husky + Lint-staged
